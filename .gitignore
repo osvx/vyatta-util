@@ -27,4 +27,7 @@ debian/*.substvars
 INSTALL
 Makefile.in
 Makefile
-
+/debian/libvyatta-util1.postinst.debhelper
+/debian/libvyatta-util1.postrm.debhelper
+/src/ipset-check-member
+/src/vyatta-validate-type
